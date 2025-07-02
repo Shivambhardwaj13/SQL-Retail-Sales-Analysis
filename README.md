@@ -9,7 +9,7 @@ This is a beginner-friendly SQL case study that analyzes a retail sales dataset.
 - **Level**: Beginner
 - **Tools**: PostgreSQL 
 
-### 🛠️ Project Structure 🎯
+## 🛠️ Project Structure 🎯
 
 1. **Database Setup** : Set up and structure a retail sales database.
 2. **Data Cleaning** : Perform data cleaning by handling missing/null values.
@@ -17,13 +17,13 @@ This is a beginner-friendly SQL case study that analyzes a retail sales dataset.
 4. **Business Questions** : Use SQL to answer real-world business questions.
 5. **Generate insights from customer and sales behavior.**
 
-### 📁 1. Project Structure
+## 📁 1. Project Structure
 - **Database Setup.
 - **Data Cleaning & Exploration.
 - **Business Analysis via SQL Queries.
 - **Insights & Reporting.
 
-### 🛠️ 1. Database Setup
+## 🛠️ 1. Database Setup
 
 **🗃️  Create Database** :The project begins by creating a database named `sales_datas`.
 **Table Creation** : A table named retail_sales is created to store the sales data. The table structure includes columns for ```transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount```.
@@ -204,26 +204,26 @@ FROM retail_sales
 GROUP BY category;
 ```
 
-### 📈 4. Findings & Insights
+## 📈 4. Findings & Insights
 - **Customer Details**: Customers span across multiple age groups and genders, with varied category preferences.
 - **High-Value Transactions**: Transactions above ₹1000 indicate premium buyers and products.
 - **Seasonal Trends**: Sales volume varies month-to-month, with some months consistently performing better.
 - **Top Customers**: A small segment of customers contributes significantly to total sales.
 
-### 📊 Reports
+## 📊 Reports
 **💵 Sales Summary**
 - **Shows the total number of sales and total sale amount.
 - **Gives details about customer age and gender.
 - **Shows how each product category performed.
 - **Helps understand which products are most popular.
 
-### 📈 Sales Trends
+## 📈 Sales Trends
 - **Tracks sales across different months to find high-performing months.
 - **Shows average sales by month and year.
 - **Breaks down order times into Morning, Afternoon, and Evening.
 - **Helps find peak times when most sales happen.
 
-### 👥 Customer Overview
+## 👥 Customer Overview
 - **Lists top 5 customers with the highest total purchase.
 - **Counts how many unique customers bought from each category.
 - **Shows the average age of customers by product type.
