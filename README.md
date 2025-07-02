@@ -4,17 +4,17 @@ This is a beginner-friendly SQL case study that analyzes a retail sales dataset.
 
 ## 🗃️ Project Info
 
-- **Database Name**: `sales_datas`
+- **Database Name**: `sales_data`
 - **Table Name**: `retail_sales`
 - **Level**: Beginner
 - **Tools**: PostgreSQL 
 
 ## 🛠️ Project Structure 🎯
 
-1. **Database Setup** : Set up and structure a retail sales database.
-2. **Data Cleaning** : Perform data cleaning by handling missing/null values.
-3. **Exploratory Analysis** : Find patterns, trends, and category insights.
-4. **Business Questions** : Use SQL to answer real-world business questions.
+1. **Database Setup**: Set up and structure a retail sales database.
+2. **Data Cleaning**: Perform data cleaning by handling missing/null values.
+3. **Exploratory Analysis**: Find patterns, trends, and category insights.
+4. **Business Questions**: Use SQL to answer real-world business questions.
 5. **Generate insights from customer and sales behavior.**
 
 ## 📁 1. Project Structure
